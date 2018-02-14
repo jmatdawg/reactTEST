@@ -8,7 +8,7 @@ class App extends Component {
     renderLinks() {
         return(
             <Fragment>
-                <div className=" w-50 mx-auto bg-light">
+                <div className=" w-50 mx-auto bg-light border">
                     <div className="page-header text-center bold">
                     <h1 className="fantasy">StudioGhibliApp</h1>
                 </div>
